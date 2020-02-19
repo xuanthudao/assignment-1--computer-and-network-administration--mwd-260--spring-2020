@@ -68,4 +68,18 @@ State: S (sleeping)
 The `du` command will output disk, or file space, usage. Write a variant of the `du` command that outputs the following when run from your home folder. (**25pts**)
 
 ```
+4.6M    Desktop
+4.0K    Documents
+4.0K    Downloads
+4.0K    Music
+4.0K    Pictures
+4.0K    Public
+12K     sketchbook
+268K    snap
+4.0K    Templates
+4.0K    Videos
+4.9M    total
+```
+
+```bash
 ```
