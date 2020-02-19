@@ -65,7 +65,7 @@ State: S (sleeping)
 ---
 
 ## /4
-The `du` command will output disk, or file space, usage. Write a variant of the `du` command that outputs the following when run from your home folder.
+The `du` command will output disk, or file space, usage. Write a variant of the `du` command that outputs the following when run from your home folder. (**20pts**)
 
 ```
 ```
